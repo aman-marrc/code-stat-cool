@@ -2,7 +2,7 @@
 <p align="center">Unifying Your Coding Journey Across Platforms!</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhjM3NsN3NzajA1b3N1Y2tuY3k3bmphZ3hmMzd2OXdhcWNqYW1layZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YTzP6zHd6d7C0/giphy.gif" width="400">
+<!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhjM3NsN3NzajA1b3N1Y2tuY3k3bmphZ3hmMzd2OXdhcWNqYW1layZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YTzP6zHd6d7C0/giphy.gif" width="400"> -->
 </div>
 
 ---
